@@ -22,6 +22,7 @@
     border-radius: 0.625rem;
     height: auto;
     text-align: center;
+    margin: 5rem 5rem;
 }
 
 .achievements_card i{
@@ -40,4 +41,20 @@
 
 .achievements_picture img{
     border: 0.325rem solid rgba(153, 38, 240,0.7);
+}
+
+@media only screen and (min-width: 800px){
+    .achievements_container{
+        padding: 5px 6rem !important;
+    }
+}
+@media only screen and (max-width: 800px){
+	.achievements_container{
+        padding: 5px 6rem !important;
+    }
+}
+@media only screen and (max-width: 425px){
+	.achievements_container{
+        padding: 5px 0rem !important;
+    }
 }
