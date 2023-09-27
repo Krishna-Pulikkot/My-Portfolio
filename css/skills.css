@@ -50,3 +50,16 @@
     background-color: #9926f0;
 }
 
+.subheading{
+    font-weight: 500;
+    font-size: 6rem;
+    display: block;
+    margin-bottom: 0;
+    color: rgba(0, 0, 0, 0.2);
+    color: #f67979;
+    position: relative;
+    line-height: 1;
+    font-family: "Lovers Quarrel", cursive;
+    margin-bottom: -20px;
+    z-index: -1;
+}
