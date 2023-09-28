@@ -5,7 +5,7 @@ https://i-am-krishna.netlify.app/
 
 
 
-# [My-Portfolio]([https://palash-bajpai-mysite.netlify.app/](https://i-am-krishna.netlify.app/))
+# [My-Portfolio]([https://i-am-krishna.netlify.app/])
 
 
 <p align="center">
