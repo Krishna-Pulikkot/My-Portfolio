@@ -1,11 +1,7 @@
-# My-Portfolio
+# [My-Portfolio](https://i-am-krishna.netlify.app/)
 Want to know more about me, checkout my website
 
 https://i-am-krishna.netlify.app/
-
-
-
-# [My-Portfolio]([https://i-am-krishna.netlify.app/])
 
 
 <p align="center">
