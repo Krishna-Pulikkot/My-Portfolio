@@ -1,3 +1,15 @@
+.background{
+    position: absolute;
+    position:fixed;
+    left: 0px;
+    top: 0px;
+    width: 100vw;
+    height: 120vh;
+    z-index: -1;
+    mix-blend-mode:multiply;
+    opacity: 0.05;
+}
+
 .menu{
     background:linear-gradient(to right, rgba(153, 38, 240,0.95), rgba(187, 110, 245,0.95));
     opacity: 0.95;
